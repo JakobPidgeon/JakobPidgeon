@@ -1,5 +1,5 @@
-- Hi, I’m Jakob Pidgeon, I'm a first-year cybersecurity student
+- Hi, I’m Jakob Pidgeon, I'm a final-year cybersecurity student
 - I'm interested in all areas of cyber and developing my skills in these areas
 - I'm a good listener and always open to new idea
-- I like to treat tech like a game or project that I need to beat
-- 
+
+
